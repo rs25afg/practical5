@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 I have done GIT before, this is just to demonstrate my understanding
 Bagel
->>>>>>> 55d6e4f0e4d52e838b9e31767f946920650ce5dd
+
