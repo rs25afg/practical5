@@ -1,1 +1,2 @@
-I have done git before
+I have done GIT before, this is just to demonstrate my understanding
+
